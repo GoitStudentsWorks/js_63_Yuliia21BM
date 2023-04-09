@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Yuliia21BM.github.io/Filmoteka_team_proj",
+  "homepage": "https://GoitStudentsWorks.github.io/js_63_Yuliia21BM",
   "scripts": {
     "start": "parcel src/index.html --port 2345",
-    "build": "parcel build src/index.html --public-url /Filmoteka_team_proj/"
+    "build": "parcel build src/index.html --public-url /js_63_Yuliia21BM/"
   },
   "repository": {
     "type": "git",
